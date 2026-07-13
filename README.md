@@ -1,7 +1,7 @@
-# Basic-CSharp-Projects
-My C# and .NET Framework projects for The Tech Academy course.
-Welcome to my C# and .NET Framework project repository.
+# Package Express
 
-This repository contains the assignments, exercises, and projects I complete during The Tech Academy C# and .NET Framework course.
+Console application that calculates a shipping quote.
 
-As I progress through the course, I will continue adding new projects to this repository.
+Formula:
+(width \* height \* length \* weight) / 100
+
